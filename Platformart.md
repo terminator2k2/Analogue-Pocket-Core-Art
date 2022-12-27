@@ -9,7 +9,7 @@
 </tr>
 <tr>
  <td><img src="pics/arduboy.png" /></td>
- <td><img src="pics/asteroids.png" /></td>
+ <td><img src="pics/Asteroids.png" /></td>
  <td><img src="pics/avision.png" /></td>
 </tr>
 <tr>
