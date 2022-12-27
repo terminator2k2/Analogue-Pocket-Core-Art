@@ -94,8 +94,8 @@
 </tr>
 <tr>
  <td><img src="pics/Qbert.png" /></td>
- <td><img src="pics/radarscope.png" /></td>
- <td><img src="pics/sg1000.png" /></td>
+ <td><img src="pics/Radarscope.png" /></td>
+ <td><img src="pics/Sg1000.png" /></td>
 </tr>
 <tr>
  <td><img src="pics/sgb.png" /></td>
