@@ -8,7 +8,7 @@
  <td><img src="pics/arcadia.png" /></td>
 </tr>
 <tr>
- <td><img src="pics/arduboy.png" /></td>
+ <td><img src="pics/Arduboy.png" /></td>
  <td><img src="pics/Asteroids.png" /></td>
  <td><img src="pics/avision.png" /></td>
 </tr>
@@ -89,7 +89,7 @@
 </tr>
 <tr>
  <td><img src="pics/poke_mini.png" /></td>
- <td><img src="pics/pong.png" /></td>
+ <td><img src="pics/Pong.png" /></td>
  <td><img src="pics/pooyan.png" /></td>
 </tr>
 <tr>
