@@ -93,7 +93,7 @@
  <td><img src="pics/pooyan.png" /></td>
 </tr>
 <tr>
- <td><img src="pics/qbert.png" /></td>
+ <td><img src="pics/Qbert.png" /></td>
  <td><img src="pics/radarscope.png" /></td>
  <td><img src="pics/sg1000.png" /></td>
 </tr>
@@ -113,7 +113,7 @@
  <td><img src="pics/supervision.png" /></td>
 </tr>
 <tr>
- <td><img src="pics/tecmo.png" /></td>
+ <td><img src="pics/Tecmo.png" /></td>
  <td><img src="pics/videobrain.png" /></td>
  <td><img src="pics/xevious.png" /></td>
 </tr>
