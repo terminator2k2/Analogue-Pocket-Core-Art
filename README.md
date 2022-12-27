@@ -6,6 +6,7 @@ pictures can be viewed in pics folder.
 
 The pics folder includes the PNG files I used to make the images.
 
+Examples:
 <table>
 <tr>
  <th><a href="https://github.com/terminator2k2/Analogue-Pocket-Core-Art/tree/main/pics">View all Images</a></th>
