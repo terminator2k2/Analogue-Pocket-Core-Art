@@ -2,8 +2,6 @@ Platform image bin files for Analogue Pocket core's.
 
 Just copy the Platforms folder into the root of your sd card.
 
-pictures can be viewed in pics folder.
-
 The pics folder includes the PNG files I used to make the images.
 
 Examples:
@@ -24,3 +22,9 @@ Examples:
  </td>
 </tr>
 </table>
+
+<tr>
+ <th>Also Check out dyreschlock's <a href="https://github.com/dyreschlock/pocket-platform-images)">Images.</a> He makes some some really nice Images for the Pocket</th>
+</tr>
+
+
