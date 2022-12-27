@@ -24,7 +24,7 @@ Examples:
 </table>
 
 <tr>
- <th>Also Check out dyreschlock's <a href="https://github.com/dyreschlock/pocket-platform-images)">Images.</a> He makes some some really nice Images for the Pocket</th>
+ <th>Also Check out dyreschlock's <a href="https://github.com/dyreschlock/pocket-platform-images">Images.</a> He makes some some really nice Images for the Pocket</th>
 </tr>
 
 
