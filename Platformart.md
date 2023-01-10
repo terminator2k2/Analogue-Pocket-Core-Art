@@ -118,6 +118,7 @@
  <td><img src="pics/videobrain.png" /></td>
 </tr>
 <tr>
+ <td><img src="pics/wonderswan.png" /></td>
  <td><img src="pics/xevious.png" /></td>
 </tr>
 
