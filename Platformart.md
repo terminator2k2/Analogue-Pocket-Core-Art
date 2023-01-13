@@ -101,24 +101,27 @@
  <td><img src="pics/sgb.png" /></td>
  <td><img src="pics/slapfight.png" /></td>
  <td><img src="pics/jtsf.png" /></td>
- <td><img src="pics/sms.png" /></td>
 </tr>
 <tr>
+ <td><img src="pics/sms.png" /></td>
  <td><img src="pics/snes.png" /></td>
  <td><img src="pics/snowbros2.png" /></td>
- <td><img src="pics/spacerace.png" /></td>
+ 
 </tr>
 <tr>
+ <td><img src="pics/spacerace.png" /></td>
  <td><img src="pics/sstriker.png" /></td>
  <td><img src="pics/studio2.png" /></td>
- <td><img src="pics/superbreakout.png" /></td>
+ 
 </tr>
 <tr> 
+ <td><img src="pics/superbreakout.png" /></td>
  <td><img src="pics/supervision.png" /></td>
  <td><img src="pics/Tecmo.png" /></td>
- <td><img src="pics/videobrain.png" /></td>
+ 
 </tr>
 <tr>
+ <td><img src="pics/videobrain.png" /></td>
  <td><img src="pics/wonderswan.png" /></td>
  <td><img src="pics/xevious.png" /></td>
 </tr>
