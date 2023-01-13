@@ -100,6 +100,7 @@
 <tr>
  <td><img src="pics/sgb.png" /></td>
  <td><img src="pics/slapfight.png" /></td>
+ <td><img src="pics/jtsf.png" /></td>
  <td><img src="pics/sms.png" /></td>
 </tr>
 <tr>
