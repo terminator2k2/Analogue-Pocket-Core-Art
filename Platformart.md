@@ -1,9 +1,9 @@
 <table>
 <tbody><tr><th colspan="3">Platform images for Console Cores.</th></tr>
 <tr>
- <td><img src="pics/2600.png" style="max-width: 100%;"/></td>
- <td><img src="pics/2600.png" style="max-width: 100%;"/></td>
- <td><img src="pics/arcadia.png" style="max-width: 100%;"/></td>
+ <td><img src="pics/2600.png" /></td>
+ <td><img src="pics/2600.png" /></td>
+ <td><img src="pics/arcadia.png" /></td>
 </tr>
 <tr>
  <td><img src="pics/channel_f.png" /></td>
