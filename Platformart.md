@@ -151,7 +151,7 @@
  </tr> 
  
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by Agg23.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/agg23">agg23</a>.</th></tr>
  
  
  
