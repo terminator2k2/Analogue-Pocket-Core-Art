@@ -66,7 +66,7 @@
  </tr>
  
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by Jotego.</th></tr> 
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/jotego" rel="nofollow">Jotego</a>.</th></tr> 
  
 
  
@@ -117,7 +117,7 @@
  </tr>
  
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by Nullobject.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
  
  
  
@@ -126,7 +126,7 @@
  </tr>
  
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by Ericlewis.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/ericlewis">ericlewis</a>.</th></tr>
  
  
  
@@ -142,7 +142,7 @@
  </tr>
  
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by Anton Gale.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/antongale">Anton Gale</a>.</th></tr>
  
 
  
@@ -160,7 +160,7 @@
  </tr> 
 
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by OpenGateware.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/opengateware">OpenGateware</a>.</th></tr>
  
 
  
@@ -179,7 +179,7 @@
  </tr> 
  
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by Pram0d.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/psomashekar">Pram0d</a>.</th></tr>
  
 
  
