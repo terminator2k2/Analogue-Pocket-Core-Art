@@ -1,7 +1,5 @@
-## Platform images for Console Cores.
-
 <table>
-
+<tbody><tr><th colspan="3">Platform images for Console Cores.</th></tr>
 <tr>
  <td><img src="pics/2600.png" /></td>
  <td><img src="pics/2600.png" /></td>
@@ -31,11 +29,11 @@
  <td><img src="pics/studio2.png" /></td>
  <td><img src="pics/sgb.png" /></td> 
  </tr>
- </table>
  
- ## Platform images for Hand Held Cores. 
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Hand Held Cores.</th></tr> 
+ 
+ 
  
  <tr>
  <td><img src="pics/avision.png" /></td> 
@@ -57,20 +55,20 @@
  <td><img src="pics/supervision.png" /></td>
  <td><img src="pics/wonderswan.png" /></td> 
  </tr>
- </table>
  
- ## Platform images for Computer Cores. 
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Computer Cores.</th></tr> 
+ 
+ 
  
  <tr> 
  <td><img src="pics/videobrain.png" /></td>
  </tr>
- </table> 
  
- ## Platform images for Arcade Cores by Jotego. 
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by Jotego.</th></tr> 
+ 
+
  
  <tr>
  <td><img src="pics/jtblock.png" /></td>
@@ -117,20 +115,20 @@
  <td><img src="pics/jtvigil.png" /></td>
  <td><img src="pics/jtyiear.png" /></td>
  </tr>
- </table>
  
- ## Platform images for Arcade Cores by Nullobject.
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by Nullobject.</th></tr>
+ 
+ 
  
  <tr>
  <td><img src="pics/Tecmo.png" /></td>
  </tr>
- </table>
  
- ## Platform images for Arcade Cores by Ericlewis.
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by Ericlewis.</th></tr>
+ 
+ 
  
  <tr>
  <td><img src="pics/Asteroids.png" /></td>
@@ -142,29 +140,29 @@
  <td><img src="pics/spacerace.png" /></td>
  <td><img src="pics/superbreakout.png" /></td> 
  </tr>
- </table> 
  
- ## Platform images for Arcade Cores by Anton Gale.
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by Anton Gale.</th></tr>
+ 
+
  
  <tr>
  <td><img src="pics/slapfight.png" /></td>
  </tr> 
- </table>
  
- ## Platform images for Arcade Cores by Agg23.
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by Agg23.</th></tr>
+ 
+ 
  
  <tr>
  <td><img src="pics/Pong.png" /></td>
  </tr> 
- </table>
+
  
- ## Platform images for Arcade Cores by OpenGateware.
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by OpenGateware.</th></tr>
  
- <table>
+
  
  <tr>
  <td><img src="pics/bankpanic.png" /></td>
@@ -179,11 +177,11 @@
  <tr> 
  <td><img src="pics/xevious.png" /></td>
  </tr> 
- </table>
  
- ## Platform images for Arcade Cores by Pram0d.
  
- <table>
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by Pram0d.</th></tr>
+ 
+
  
  <tr>
  <td><img src="pics/bakraid.png" /></td> 
@@ -196,4 +194,4 @@
  <td><img src="pics/snowbros2.png" /></td> 
  </tr>
 
- </table>
+ <tbody></table>
