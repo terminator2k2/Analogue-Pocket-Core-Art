@@ -75,48 +75,46 @@
  <tr>
  <td><img src="pics/jtblock.png" /></td>
  <td><img src="pics/jtcontra.png" /></td>
+ <td><img src="pics/jtcps1.png" /></td>
  </tr>
  <tr>
- <td><img src="pics/jtcps1.png" /></td>
  <td><img src="pics/jtdd.png" /></td>
  <td><img src="pics/jtdd2.png" /></td>
- </tr>
- <tr>
  <td><img src="pics/jtexed.png" /></td>
+ </tr>
+ <tr> 
  <td><img src="pics/jtgunsmk.png" /></td>
  <td><img src="pics/jtgng.png" /></td>
+ <td><img src="pics/jtkarnov.png" /></td>
  </tr>
  <tr>
- <td><img src="pics/jtkarnov.png" /></td>
  <td><img src="pics/jtkicker.png" /></td>
  <td><img src="pics/jtkiwi.png" /></td>
- </tr>
- <tr>
  <td><img src="pics/jtkunio.png" /></td>
+ </tr>
+ <tr> 
  <td><img src="pics/jtmikie.png" /></td>
  <td><img src="pics/jtoutrun.png" /></td>
+ <td><img src="pics/jtpang.png" /></td>
  </tr>
  <tr>
- <td><img src="pics/jtpang.png" /></td>
  <td><img src="pics/jtpinpon.png" /></td>
  <td><img src="pics/jtroadf.png" /></td>
+ <td><img src="pics/jtroc.png" /></td>
  </tr>
  <tr>
- <td><img src="pics/jtroc.png" /></td>
  <td><img src="pics/jtsbaskt.png" /></td>
  <td><img src="pics/jtsarms.png" /></td>
+ <td><img src="pics/jtsectnz.png" /></td>
  </tr>
  <tr>
- <td><img src="pics/jtsectnz.png" /></td>
  <td><img src="pics/jtsf.png" /></td> 
  <td><img src="pics/jttrack.png" /></td>
- </tr>
- <tr> 
  <td><img src="pics/jttrojan.png" /></td>
+ </tr>
+ <tr>
  <td><img src="pics/jtvulgus.png" /></td>
  <td><img src="pics/jtvigil.png" /></td>
- </tr>
- <tr> 
  <td><img src="pics/jtyiear.png" /></td>
  </tr>
  </table>
