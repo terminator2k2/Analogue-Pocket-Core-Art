@@ -148,6 +148,7 @@
  
  <tr>
  <td><img src="pics/slapfight.png" /></td>
+ <td><img src="pics/performan.png" /></td>
  </tr> 
  
  
