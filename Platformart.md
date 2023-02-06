@@ -21,11 +21,12 @@
  <td><img src="pics/pce.png" /></td>
  </tr>
  <tr> 
+ <td><img src="pics/pcecd.png" /></td>
  <td><img src="pics/SG1000.png" /></td> 
  <td><img src="pics/sms.png" /></td>
- <td><img src="pics/snes.png" /></td>
  </tr>
- <tr> 
+ <tr>
+ <td><img src="pics/snes.png" /></td>
  <td><img src="pics/studio2.png" /></td>
  <td><img src="pics/sgb.png" /></td> 
  </tr>
