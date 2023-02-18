@@ -72,9 +72,9 @@
 
  
  <tr>
- <td><img src="pics/jtblock.png" /></td>
  <td><img src="pics/jtcontra.png" /></td>
  <td><img src="pics/jtcps1.png" /></td>
+ <td><img src="pics/jtcps2.png" /></td>
  </tr>
  <tr>
  <td><img src="pics/jtdd.png" /></td>
@@ -116,7 +116,9 @@
  <td><img src="pics/jtvigil.png" /></td>
  <td><img src="pics/jtyiear.png" /></td>
  </tr>
- 
+ <tr>
+ <td><img src="pics/jtblock.png" /></td>
+ </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
  
