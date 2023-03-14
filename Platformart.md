@@ -139,7 +139,7 @@
  <td><img src="pics/Qbert.png" /></td> 
  </tr>
  <tr>
- <td><img src="pics/Radarscope.png" /></td>
+ <td><img src="pics/radarscope.png" /></td>
  <td><img src="pics/spacerace.png" /></td>
  <td><img src="pics/superbreakout.png" /></td> 
  </tr>
