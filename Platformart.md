@@ -119,6 +119,7 @@
  <tr>
  <td><img src="pics/jtblock.png" /></td>
  <td><img src="pics/jtcastle.png" /></td>
+ <td><img src="pics/jtcomsc.png" /></td>
  </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
