@@ -54,10 +54,10 @@
  <tr> 
  <td><img src="pics/poke_mini.png" /></td>
  <td><img src="pics/supervision.png" /></td>
- <td><img src="pics/wonderswan.png" /></td> 
+ <td><img src="pics/tamagotchi_p1.png" /></td> 
  </tr>
  <tr> 
- <td><img src="pics/tamagotchi_p1.png" /></td>
+ <td><img src="pics/wonderswan.png" /></td> 
  </tr>
  
  
