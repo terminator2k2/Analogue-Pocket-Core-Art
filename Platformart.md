@@ -56,6 +56,9 @@
  <td><img src="pics/supervision.png" /></td>
  <td><img src="pics/wonderswan.png" /></td> 
  </tr>
+ <tr> 
+ <td><img src="pics/tamagotchi_p1.png" /></td>
+ </tr>
  
  
 <tbody><tr><th colspan="3">Platform images for Computer Cores.</th></tr> 
