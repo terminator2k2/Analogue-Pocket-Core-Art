@@ -127,6 +127,7 @@
   <tr>
  <td><img src="pics/jtrastan.png" /></td>
  <td><img src="pics/jtaliens.png" /></td>
+ <td><img src="pics/jtbtiger.png" /></td>
  </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
