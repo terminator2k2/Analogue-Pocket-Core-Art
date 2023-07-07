@@ -67,9 +67,7 @@
  
  
  <tr>
- <td><img src="pics/flappybird.png" /></td> 
- <td><img src="" /></td>
- <td><img src="" /></td>
+ <td><img src="pics/flappybird.png" /></td>
  </tr>
  
  
