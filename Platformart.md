@@ -62,6 +62,17 @@
  </tr>
  
  
+ <tbody><tr><th colspan="3">Platform images for Other Cores.</th></tr> 
+ 
+ 
+ 
+ <tr>
+ <td><img src="pics/flappybird.png" /></td> 
+ <td><img src="" /></td>
+ <td><img src="" /></td>
+ </tr>
+ 
+ 
 <tbody><tr><th colspan="3">Platform images for Computer Cores.</th></tr> 
  
  
@@ -212,5 +223,7 @@
  <td><img src="pics/sstriker.png" /></td>
  <td><img src="pics/snowbros2.png" /></td> 
  </tr>
+ 
+ 
 
  <tbody></table>
