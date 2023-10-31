@@ -151,7 +151,7 @@
  </tr>
   <tr>
  <td><img src="pics/jtshanon.png" /></td>
- <td><img src="pics/jtcps1.5.png" /></td>  
+ <td><img src="pics/jtcps15.png" /></td>  
  <td><img src="pics/jtshouse.png" /></td> 
  </tr>
  
