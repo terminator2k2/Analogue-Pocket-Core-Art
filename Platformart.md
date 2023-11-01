@@ -233,7 +233,9 @@
  <td><img src="pics/sstriker.png" /></td>
  <td><img src="pics/snowbros2.png" /></td> 
  </tr>
- 
+ <tr>
+ <td><img src="pics/truxton2.png" /></td>
+ </tr>
  
 
  <tbody></table>
