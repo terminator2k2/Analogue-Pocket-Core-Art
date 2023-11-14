@@ -197,7 +197,17 @@
  
  <tr>
  <td><img src="pics/Pong.png" /></td>
- </tr> 
+ </tr>
+
+
+<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/RndMnkIII">RndMnkIII</a>.</th></tr>
+ 
+ 
+ 
+ <tr>
+ <td><img src="pics/alphamission.png" /></td>
+ </tr>
+ 
 
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/opengateware">OpenGateware</a>.</th></tr>
