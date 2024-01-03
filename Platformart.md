@@ -59,6 +59,7 @@
  <tr> 
  <td><img src="pics/wonderswan.png" /></td> 
  <td><img src="pics/gameandwatch.png" /></td>
+ <td><img src="pics/jtngp.png" /></td>
  </tr>
  
  
