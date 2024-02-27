@@ -148,7 +148,7 @@
  <tr>
  <td><img src="pics/jttmnt.png" /></td>
  <td><img src="pics/jttora.png" /></td>
- <td><img src="pics/jttwin16.png" /></td>
+ <td><img src="pics/jtfround.png" /></td>
  </tr>
   <tr>
  <td><img src="pics/jtshanon.png" /></td>
