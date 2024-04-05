@@ -157,7 +157,8 @@
  </tr>
    <tr>
  <td><img src="pics/jt1943.png" /></td>
- <td><img src="pics/jtmx5k.png" /></td>   
+ <td><img src="pics/jtmx5k.png" /></td>
+  <td><img src="pics/jtcommnd.png" /></td> 
  </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
@@ -250,6 +251,15 @@
  </tr>
  <tr>
  <td><img src="pics/truxton2.png" /></td>
+ </tr>
+ 
+ 
+ <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/obsidian-dot-dev">obsidian-dot-dev</a>.</th></tr>
+ 
+
+ 
+ <tr>
+ <td><img src="pics/gaplus.png" /></td> 
  </tr>
  
 
