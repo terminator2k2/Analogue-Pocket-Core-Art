@@ -251,6 +251,7 @@
  </tr>
  <tr>
  <td><img src="pics/truxton2.png" /></td>
+ <td><img src="pics/wrestlefest.png" /></td>
  </tr>
  
  
