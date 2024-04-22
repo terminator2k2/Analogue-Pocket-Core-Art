@@ -232,6 +232,7 @@
  </tr>
  <tr> 
  <td><img src="pics/xevious.png" /></td>
+ <td><img src="pics/irem_m92.png" /></td>
  </tr> 
  
  
