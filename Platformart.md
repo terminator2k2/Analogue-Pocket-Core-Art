@@ -270,6 +270,7 @@
 
  
  <tr>
+ <td><img src="pics/jailbreak.png" /></td> 
  <td><img src="pics/athena.png" /></td> 
  </tr>
  
