@@ -160,6 +160,9 @@
  <td><img src="pics/jtmx5k.png" /></td>
   <td><img src="pics/jtcommnd.png" /></td> 
  </tr>
+ <tr>
+ <td><img src="pics/jts18.png" /></td>
+ </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
  
@@ -253,6 +256,7 @@
  <tr>
  <td><img src="pics/truxton2.png" /></td>
  <td><img src="pics/wrestlefest.png" /></td>
+ <td><img src="pics/tekipaki.png" /></td>
  </tr>
  
  
