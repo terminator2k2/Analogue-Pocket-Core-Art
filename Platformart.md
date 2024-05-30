@@ -258,6 +258,9 @@
  <td><img src="pics/wrestlefest.png" /></td>
  <td><img src="pics/tekipaki.png" /></td>
  </tr>
+ <tr>
+ <td><img src="pics/doubledragoniii.png" /></td>
+ </tr>
  
  
  <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/obsidian-dot-dev">obsidian-dot-dev</a>.</th></tr>
