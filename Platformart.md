@@ -165,6 +165,9 @@
  <td><img src="pics/jtbiocom.png" /></td>
  <td><img src="pics/jtslyspy.png" /></td>
  </tr>
+ <tr>
+ <td><img src="pics/jtflane.png" /></td>
+ </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
  
