@@ -61,6 +61,9 @@
  <td><img src="pics/gameandwatch.png" /></td>
  <td><img src="pics/jtngp.png" /></td>
  </tr>
+ <tr>
+ <td><img src="pics/jtngpc.png" /></td>
+ </tr>
  
  
  <tbody><tr><th colspan="3">Platform images for Other Cores.</th></tr> 
@@ -169,6 +172,11 @@
  <td><img src="pics/jtflane.png" /></td>
  <td><img src="pics/jtriders.png" /></td>
  <td><img src="pics/jtlabrun.png" /></td>
+ </tr>
+ <tr>
+ <td><img src="pics/jtxmen.png" /></td>
+ <td><img src="pics/jtcircus.png" /></td>
+ <td><img src="pics/jtparoda.png" /></td>
  </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
