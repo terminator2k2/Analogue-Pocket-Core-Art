@@ -63,6 +63,7 @@
  </tr>
  <tr>
  <td><img src="pics/jtngpc.png" /></td>
+ <td><img src="pics/lynx.png" /></td>
  </tr>
  
  
