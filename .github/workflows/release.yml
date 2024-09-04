@@ -18,4 +18,6 @@ jobs:
         with:
           files: |
             .home/Platforms.zip
+          env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}     
         
