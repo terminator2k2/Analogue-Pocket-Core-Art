@@ -23,7 +23,7 @@ jobs:
       run: zip -r ${{ github.event.repository.name }}.zip ./Platforms/_images
 
    - name: "Upload ${{ github.event.repository.name }} Artifact"
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v3
       with:
         name: "${{ github.event.repository.name }}"
         path: "releases/${{ github.event.repository.name }}"
