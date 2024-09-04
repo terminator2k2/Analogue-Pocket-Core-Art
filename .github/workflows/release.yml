@@ -25,8 +25,8 @@ jobs:
     - name: "Upload ${{ github.event.repository.name }} Artifact"
       uses: actions/upload-artifact@v3
       with:
-        name: "${{ github.event.repository.name }}"
-        path: "/Platforms/_images/${{ github.event.repository.name }}"
+        name: "${{ github.event.repository.name }}.zip"
+        path: "/Platforms/_images/"
         if-no-files-found: error
         retention-days: 7
 
