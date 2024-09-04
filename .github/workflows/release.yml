@@ -26,7 +26,6 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: "${{ github.event.repository.name }}"
-        path: "releases/${{ github.event.repository.name }}"
         if-no-files-found: error
         retention-days: 7
 
