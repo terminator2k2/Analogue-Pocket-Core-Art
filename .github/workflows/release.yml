@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@v3
 
     - name: Zip Folder
-      run: zip -r ${{ github.event.repository.name }}.zip /Platforms/_images/
+      run: zip -r ${{ github.event.repository.name }}.zip ./Platforms/_images/
     - name: "Upload ${{ github.event.repository.name }}.zip Artifact"
       uses: actions/upload-artifact@v3
       with:
