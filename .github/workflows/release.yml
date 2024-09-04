@@ -22,6 +22,14 @@ jobs:
     - name: Zip Folder
       run: zip -r ${{ github.event.repository.name }}.zip ./Platforms/_images
 
+   - name: "Upload ${{ github.event.repository.name }} Artifact"
+      uses: actions/upload-artifact@v4
+      with:
+        name: "${{ github.event.repository.name }}"
+        path: "releases/${{ github.event.repository.name }}"
+        if-no-files-found: error
+        retention-days: 7
+
     - name: Release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
