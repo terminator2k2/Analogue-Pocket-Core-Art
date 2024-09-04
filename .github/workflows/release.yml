@@ -22,7 +22,7 @@ jobs:
     - name: Zip Folder
       run: zip -r ${{ github.event.repository.name }}.zip ./Platforms/_images
 
-   - name: "Upload ${{ github.event.repository.name }} Artifact"
+    - name: "Upload ${{ github.event.repository.name }} Artifact"
       uses: actions/upload-artifact@v3
       with:
         name: "${{ github.event.repository.name }}"
