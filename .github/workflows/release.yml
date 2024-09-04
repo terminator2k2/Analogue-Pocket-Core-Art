@@ -10,14 +10,14 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: cd home; zip -r Platforms.zip
+        run: cd home; zip -r Platforms.zip Platforms
 
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            .home/Platforms.zip
+            ./home/Platforms.zip
           env:
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}     
         
