@@ -1,6 +1,6 @@
 name: Create release
-on: workflow_dispatch
-release:
+on:
+  release:
     types:
       - created
   
