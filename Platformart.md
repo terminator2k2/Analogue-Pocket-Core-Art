@@ -179,6 +179,9 @@
  <td><img src="pics/jtcircus.png" /></td>
  <td><img src="pics/jtparoda.png" /></td>
  </tr>
+ <tr>
+ <td><img src="pics/jtrumble.png" /></td>
+ </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
  
