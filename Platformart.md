@@ -243,7 +243,7 @@
  
 
  
-<tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://github.com/opengateware">OpenGateware</a>.</th></tr>
+<tbody><tr><th colspan="3">Platform images for Cores by <a href="https://github.com/opengateware">OpenGateware</a>.</th></tr>
  
 
  
@@ -260,6 +260,7 @@
  <tr> 
  <td><img src="pics/xevious.png" /></td>
  <td><img src="pics/irem_m92.png" /></td>
+ <td><img src="pics/msx.png" /></td>
  </tr> 
  
  
