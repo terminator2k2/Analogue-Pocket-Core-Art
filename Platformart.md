@@ -2,7 +2,7 @@
 <tbody><tr><th colspan="3">Platform images for Console Cores.</th></tr>
 <tr>
  <td><img src="pics/2600.png" /></td>
- <td><img src="pics/2600.png" /></td>
+ <td><img src="pics/7800.png" /></td>
  <td><img src="pics/arcadia.png" /></td>
 </tr>
 <tr>
